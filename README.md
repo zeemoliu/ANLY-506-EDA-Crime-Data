@@ -4,4 +4,4 @@ The main objective of this research is to investigate the crime characteristics 
 
 Normality test include Shapiro-wilk, Skweness and Kurtosis test.
 
-we also make graphic models to help indicates the distribution, which includes: the Histogram, Density plot, Box plot and Normality plot.
+We also make graphic models to help indicates the distribution, which includes: the Histogram, Density plot, Box plot and Normality plot.
